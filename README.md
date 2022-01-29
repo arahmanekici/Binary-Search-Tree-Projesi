@@ -11,6 +11,5 @@ Binary Search Tree Projesi
 
     [1]              [3]            [6]         [8]
 
-[0 ]                             [5 ]                       [9 ]
+    [0 ]                          [5 ]               [9 ]
 
-.
